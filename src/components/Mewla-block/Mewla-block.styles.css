@@ -1,0 +1,22 @@
+.mewla-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 10px 20px;
+  background-color: #fff;
+  border: 1px solid #a9a9a9;
+  border-radius: 4px;
+  margin-left: 100px;
+  margin: 10px 5px;
+}
+
+.mewla-block .value {
+  opacity: 0.5;
+  font-size: 0.8em;
+}
+
+.mewla-block .amount {
+  font-size: 1.6em;
+  font-weight: 400;
+}

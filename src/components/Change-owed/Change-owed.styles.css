@@ -1,0 +1,12 @@
+.change-owed-wrapper {
+  border: 1px solid #a9a9a9;
+  background-color: #eaf4fd;
+  display: inline-flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 50px auto;
+  font-size: 1.6em;
+  padding: 10px;
+  border-radius: 4px;
+  font-weight: 300;
+}

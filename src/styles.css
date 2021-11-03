@@ -78,3 +78,22 @@ button#calculate {
   Add your custom CSS below this line
   ---
 */
+
+img {
+  width: 300px;
+}
+.unit {
+  font-size: 14px;
+  margin-left: 5px;
+}
+input {
+  margin-left: 5px;
+}
+.cash-line {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#results {
+  text-align: center;
+}

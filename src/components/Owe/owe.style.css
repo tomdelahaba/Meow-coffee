@@ -1,0 +1,17 @@
+.owe-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.change-owed-mewlas {
+  font-size: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 24px;
+  margin: 10px 0;
+}
